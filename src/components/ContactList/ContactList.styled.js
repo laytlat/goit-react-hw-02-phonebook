@@ -8,6 +8,4 @@ export const ContactListStyled = styled.ul`
 
   padding: 40px;
   margin-top: 30px;
-
-  border: 2px solid black;
 `;
